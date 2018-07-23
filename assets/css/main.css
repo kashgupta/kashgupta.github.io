@@ -496,12 +496,14 @@
 
 			ul.alt li {
 				border-top: solid 1px #c8cccf;
-				padding: 0.5em 0;
+				padding: 0.2em 0;
+				text-transform: none;
 			}
 
 				ul.alt li:first-child {
 					border-top: 0;
 					padding-top: 0;
+					text-transform: none;
 				}
 
 		ul.icons {
