@@ -490,6 +490,8 @@
 		}
 
 		ul.alt {
+			width: 65%;
+			margin: auto;
 			list-style: none;
 			padding-left: 0;
 		}
